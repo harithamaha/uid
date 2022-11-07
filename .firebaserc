@@ -1,0 +1,8 @@
+{
+  "projects": {
+    "default": "jobport-d117e",
+    "staging": "student-d47a9"
+  },
+  "targets": {},
+  "etags": {}
+}
